@@ -1,0 +1,1 @@
+hash: python3 hash.py
